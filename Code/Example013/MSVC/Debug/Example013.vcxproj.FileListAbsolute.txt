@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\Example13\source-code-for-book-examples\Win32-simulator-MSVC\Examples\Example013\MSVC\Debug\Example013.exe
+C:\Users\melvi\桌面\研 二 上\作 業 系 統\實作code範例\Example13_work\source-code-for-book-examples\Win32-simulator-MSVC\Examples\Example013\MSVC\Debug\Example013.exe
+C:\Users\melvi\桌面\final_project_work\source-code-for-book-examples\Win32-simulator-MSVC\Examples\Example013\MSVC\Debug\Example013.exe
+C:\Users\melvi\桌面\研 二 上\作 業 系 統\final_project_work_revised - 複製\source-code-for-book-examples\Win32-simulator-MSVC\Examples\Example013\MSVC\Debug\Example013.exe
+C:\Users\melvi\桌面\研 二 上\作 業 系 統\final_project_work_revised - 複製 - 複製\source-code-for-book-examples\Win32-simulator-MSVC\Examples\Example013\MSVC\Debug\Example013.exe
+C:\Users\melvi\桌面\研 二 上\作 業 系 統\final_project_work_gpt4o\source-code-for-book-examples\Win32-simulator-MSVC\Examples\Example013\MSVC\Debug\Example013.exe
+C:\Users\melvi\桌面\研 二 上\作 業 系 統\final_project_work_gpt4o - 複製\source-code-for-book-examples\Win32-simulator-MSVC\Examples\Example013\MSVC\Debug\Example013.exe
+C:\Users\melvi\桌面\研 二 上\作 業 系 統\final_project_work_gpt4o - notation\source-code-for-book-examples\Win32-simulator-MSVC\Examples\Example013\MSVC\Debug\Example013.exe
+C:\Users\melvi\桌面\研 二 上\作 業 系 統\final_project_ notation\source-code-for-book-examples\Win32-simulator-MSVC\Code\Example013\MSVC\Debug\Example013.exe
